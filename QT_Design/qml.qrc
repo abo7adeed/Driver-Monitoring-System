@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>debugPage.qml</file>
+        <file>Images/account.png</file>
+        <file>Images/callingicon.png</file>
+        <file>Images/discalling.png</file>
+        <file>Images/email.png</file>
+        <file>Images/highAlert.png</file>
+        <file>Images/lowAlert.png</file>
+        <file>Images/pin.png</file>
+        <file>Images/settings.png</file>
+        <file>Images/sport-car.png</file>
+        <file>Images/telephone (1).png</file>
+        <file>Fonts/Bungee-Inline.otf</file>
+        <file>Fonts/inria-serif/InriaSerif-Bold.otf</file>
+        <file>Fonts/inria-serif/InriaSerif-Regular.otf</file>
+        <file>HighAlert.qml</file>
+        <file>LowAlert.qml</file>
+        <file>callingPage.qml</file>
+        <file>Images/a2.png</file>
+        <file>Images/a3.png</file>
+        <file>Images/eyeopen.png</file>
+        <file>Images/line.png</file>
+        <file>Images/linee.png</file>
+        <file>Images/user (1).png</file>
+        <file>gpsPage.qml</file>
+        <file>Images/gpsImage.png</file>
+        <file>Images/GPS.webp</file>
+    </qresource>
+</RCC>
